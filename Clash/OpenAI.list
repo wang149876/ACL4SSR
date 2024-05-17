@@ -1,3 +1,7 @@
 #openai
 DOMAIN,openai.com
 DOMAIN-SUFFIX,openai.com
+
+#chatgpt
+DOMAIN,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.com
