@@ -1,7 +1,7 @@
 # arxiv
 DOMAIN,arxiv.org
 DOMAIN-SUFFIX,arxiv.org
-#apple music
+# apple music
 DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,itsliveradio.apple.com
 DOMAIN-SUFFIX,aodp-ssl.apple.com
